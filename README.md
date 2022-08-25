@@ -1,8 +1,3 @@
-▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬
-
-   ▓▓▓▒▒▒░░░ (BASE EXEMPLO) PRODUÇÃO - MAR 2021 - YAN B. FALCÃO ░░░▒▒▒▓▓▓ 
-▬▬▬▬▬ ஜ۩۞۩ஜ ▬▬▬▬▬
-
 Dashboard - Excel
 
 Repositório de Dashboards realizados no Excel.
@@ -19,8 +14,3 @@ Espero que tenham gostado e obrigado por chegar até aqui!
 Cordialmente,
 
 Yan Falcão.
-
-▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬
-
-   ▓▓▓▒▒▒░░░ (BASE EXEMPLO) PRODUÇÃO - MAR 2021 - YAN B. FALCÃO ░░░▒▒▒▓▓▓ 
-▬▬▬▬▬ ஜ۩۞۩ஜ ▬▬▬▬▬
